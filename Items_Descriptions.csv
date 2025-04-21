@@ -1,5 +1,5 @@
 key,level,English,Japanese,Chinese
-it_var_example,0,"sets hidden vars and square vars on pickup","sets hidden vars and square vars on pickup","sets hidden vars and square vars on pickup"
+it_var_ex_loot,0,"sets hidden vars and square vars on pickup","sets hidden vars and square vars on pickup","sets hidden vars and square vars on pickup"
 it_xkrabbit,0,"displays 1000's of x coordinate"              ,"displays 1000's of x coordinate"              ,"displays 1000's of x coordinate"              ,
 it_xrabbit, 0,"displays x coordinate","displays x coordinate","displays x coordinate","displays x coordinate","displays x coordinate","displays x coordinate",
 it_ykrabbit,0,"displays 1000's of y coordinate"              ,"displays 1000's of y coordinate"              ,"displays 1000's of y coordinate"              ,
