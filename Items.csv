@@ -132,8 +132,8 @@ quickPattern,tpat_hb_square_set_var,varIndex,0,amount,s_dtId
 
 it_atk_pat_sampler,11
 trigger,none
-// You can set hbs/strMult in Items.ini. Setting strMult to 0 switches targets to allies
-// Ancient patterns tend to cause crashes without the pet, so they have been shifted to the back
+"You can set hbs/strMult in Items.ini. Setting strMult to 0 switches targets to allies"
+"Ancient patterns tend to cause crashes without the pet, so they have been shifted to the back"
 
 trigger,hotbarUsedProc,tcond_hb_primary
 target,ttrg_hotbarslot_self
@@ -621,7 +621,7 @@ target,ttrg_players_prune,tp#_teamId,==,u_team
 set,tset_strength_def
 set,tset_hbs_def
 addPattern,ipat_dark_shield,amount,1,time,1000,duration,1000
-## ANCIENT PATTERNS BREAK W/OUT ANCIENT'S PET; MOVING TO END (144)
+"ANCIENT PATTERNS BREAK W/OUT ANCIENT'S PET; MOVING TO END (144)"
 
 
 trigger,regenTick
