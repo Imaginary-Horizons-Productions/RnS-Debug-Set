@@ -1,0 +1,82 @@
+= Arcane Set =
+Raven Grimore
+Darkmagic Blade
+Witch's Cloak
+Crowfeather Hairpin
+Opal Necklace
+
+= Night Set =
+Sleeping Greatbow
+Crescentmoon Dagger
+Lullaby Harp
+Nightstar Grimore
+Moon Pendant
+Pajama Hat
+Stuffed Rabbit
+Nightingale Gown
+
+= Timespace Set =
+Eternity Flute
+Timewarp Wand
+Chrome Shield
+Clockwork Tome
+Metrenome Boots (it_haste_boots)
+Timemage Cap
+Starry Cloak
+Gemini Necklace
+
+= Wind Set =
+Hawkfeather Fan
+Windbite Dagger
+Pidgeon Bow
+Shinsoku Katana
+Eaglewing Charm
+Sparrow Feather
+Winged Cap
+Thief's Coat
+
+= Bloodwolf Set =
+Vampiric Dagger
+Bloodhound Greatsword
+Reaper Cloak
+Blood Vial
+
+= Assassin Set =
+Black Wakizashi
+Throwing Dagger
+Shadow Bracelet
+Ninja Robe
+Kunoichi Hood
+Shinobi Tabi
+
+= Rockdragon Set =
+Dragonhead Spear
+Granite Greatsword
+Greysteel Shield
+Stonebreaker Staff
+Tough Gauntlet
+Rockdragon Mail
+Obsidian Hairpin
+Iron Greaves (it_iron_grieves)
+
+= Flame Set =
+Volcano Spear
+Phoenix Charm
+Firescale Corset
+Demon Horns
+Flamewalker Boots
+
+= Gem Set =
+Diamond Shield
+Garnet Staff
+Sapphire Violin
+Emerald Chestplate
+Amethyst Bracelet
+Topaz Charm
+Ruby Circlet
+
+= Sparkblade Set =
+Staticshock Earrings
+
+= Swiftflight Set =
+Talon Charm
