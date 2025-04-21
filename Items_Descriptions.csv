@@ -1,18 +1,15 @@
 key,level,English,Japanese,Chinese
-,,,,
-it_steel_rabbit,0,Raises all damage by [VAR0_PERCENT].,Raises all damage by [VAR0_PERCENT].,Raises all damage by [VAR0_PERCENT].
-it_opal_rabbit,0,Raises Special damage by [VAR0_PERCENT].,Raises Special damage by [VAR0_PERCENT].,Raises Special damage by [VAR0_PERCENT].
-it_sapphire_rabbit,0,Raises Secondary damage by [VAR0_PERCENT].,Raises Secondary damage by [VAR0_PERCENT].,Raises Secondary damage by [VAR0_PERCENT].
-it_ruby_rabbit,0,Raises Primary damage by [VAR0_PERCENT].,Raises Primary damage by [VAR0_PERCENT].,Raises Primary damage by [VAR0_PERCENT].
-it_garnet_rabbit,0,"Every [CD], become invulnerable for [VAR0_SECONDS].","Every [CD], become invulnerable for [VAR0_SECONDS].","Every [CD], become invulnerable for [VAR0_SECONDS]."
-it_emerald_rabbit,0,"Heals [VAR0] HP after each fight, up to [VAR1] times.","Heals [VAR0] HP after each fight, up to [VAR1] times.","Heals [VAR0] HP after each fight, up to [VAR1] times."
-,,,,
-it_blueburn_book,0,Your Secondary applies [SUPERBURN-2].,Your Secondary applies [SUPERBURN-2].,Your Secondary applies [SUPERBURN-2].
-it_redburn_book,0,Your Primary applies [SUPERBURN-3].,Your Primary applies [SUPERBURN-3].,Your Primary applies [SUPERBURN-3].
-it_brightcurse_book,0,Your Special applies [SUPERCURSE-0].,Your Special applies [SUPERCURSE-0].,Your Special applies [SUPERCURSE-0].
-it_darkcurse_book,0,Your Special applies [SUPERCURSE-3].,Your Special applies [SUPERCURSE-3].,Your Special applies [SUPERCURSE-3].
-,,,,
-it_sparklesparkle_staff,0,Gain [SPARKLESPARKLE] when you use your Secondary.,Gain [SPARKLESPARKLE] when you use your Secondary.,Gain [SPARKLESPARKLE] when you use your Secondary.
-it_wrenchrock_staff,0,Gain [BRICKSKIN] when you use your Defensive.,Gain [BRICKSKIN] when you use your Defensive.,Gain [BRICKSKIN] when you use your Defensive.
-it_blackmoon_staff,0,"Every [CD], gain [BLACKMOON] when you use your Primary.","Every [CD], gain [BLACKMOON] when you use your Primary.","Every [CD], gain [BLACKMOON] when you use your Primary."
-it_bluemoon_staff,0,"Every [CD], gain [BLUEMOON] when you use your Secondary.","Every [CD], gain [BLUEMOON] when you use your Secondary.","Every [CD], gain [BLUEMOON] when you use your Secondary."
+it_var_example,0,"sets hidden vars and square vars on pickup","sets hidden vars and square vars on pickup","sets hidden vars and square vars on pickup"
+it_xkrabbit,0,"displays 1000's of x coordinate"              ,"displays 1000's of x coordinate"              ,"displays 1000's of x coordinate"              ,
+it_xrabbit, 0,"displays x coordinate","displays x coordinate","displays x coordinate","displays x coordinate","displays x coordinate","displays x coordinate",
+it_ykrabbit,0,"displays 1000's of y coordinate"              ,"displays 1000's of y coordinate"              ,"displays 1000's of y coordinate"              ,
+it_yrabbit ,0,"displays y coordinate","displays y coordinate","displays y coordinate","displays y coordinate","displays y coordinate","displays y coordinate",
+it_0book,0,"shows hidden var 0 of first loot","shows hidden var 0 of first loot","shows hidden var 0 of first loot"
+it_1book,0,"shows hidden var 1 of first loot","shows hidden var 1 of first loot","shows hidden var 1 of first loot"
+it_2book,0,"shows hidden var 2 of first loot","shows hidden var 2 of first loot","shows hidden var 2 of first loot"
+it_3book,0,"shows hidden var 3 of first loot","shows hidden var 3 of first loot","shows sqvar3 of first loot"
+it_1sqrabbit,0,"shows sqvar1 of first loot (also sets it to 0 on pickup)","shows sqvar1 of first loot (also sets it to 0)","shows sqvar1 of first loot (also sets it to 0)"
+it_2sqrabbit,0,"shows sqvar2 of first loot (also sets it to 0 on pickup)","shows sqvar2 of first loot (also sets it to 0)","shows sqvar2 of first loot (also sets it to 0)"
+it_3sqrabbit,0,"shows sqvar3 of first loot (also sets it to 0 on pickup)","shows sqvar3 of first loot (also sets it to 0)","shows sqvar3 of first loot (also sets it to 0)"
+it_atk_pat_sampler,0,"Casts an attack pattern every second. Can iterate through the attack patterns with your 4 different actions"
+it_data_id_scanner,0,"Stores and displays the dataId of any item that is picked up (for id's up to 999)","Stores and displays the dataId of any item that is picked up (for id's up to 999)","Stores and displays the dataId of any item that is picked up (for id's up to 999)"

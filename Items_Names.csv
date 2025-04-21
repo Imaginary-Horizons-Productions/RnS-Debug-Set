@@ -1,18 +1,15 @@
 key,level,English,Japanese,Chinese
-,,,,
-it_steel_rabbit,0,Steel Rabbit,Steel Rabbit,Steel Rabbit
-it_opal_rabbit,0,Opal Rabbit,Opal Rabbit,Opal Rabbit
-it_sapphire_rabbit,0,Sapphire Rabbit,Sapphire Rabbit,Sapphire Rabbit
-it_ruby_rabbit,0,Ruby Rabbit,Ruby Rabbit,Ruby Rabbit
-it_garnet_rabbit,0,Garnet Rabbit,Garnet Rabbit,Garnet Rabbit
-it_emerald_rabbit,0,Emerald Rabbit,Emerald Rabbit,Emerald Rabbit
-,,,,
-it_blueburn_book,0,Blueburn Book,Blueburn Book,Blueburn Book
-it_redburn_book,0,Redburn Book,Redburn Book,Redburn Book
-it_brightcurse_book,0,Brightcurse Book,Brightcurse Book,Brightcurse Book
-it_darkcurse_book,0,Darkcurse Book,Darkcurse Book,Darkcurse Book
-,,,,
-it_sparklesparkle_staff,0,Sparklesparkle Staff,Sparklesparkle Staff,Sparklesparkle Staff
-it_wrenchrock_staff,0,Wrenchrock Staff,Wrenchrock Staff,Wrenchrock Staff
-it_blackmoon_staff,0,Blackmoon Staff,Blackmoon Staff,Blackmoon Staff
-it_bluemoon_staff,0,Bluemoon Staff,Bluemoon Staff,Bluemoon Staff
+it_var_example,0,example staff,example staff,example staff
+it_xkrabbit, 0,X Thousand Rabbit,X Thousand Rabbit,X Thousand Rabbit
+it_xrabbit,  0,X Rabbit,X Rabbit,X Rabbit
+it_ykrabbit, 0,Y Thousand Rabbit,Y Thousand Rabbit,Y Thousand Rabbit
+it_yrabbit,  0,Y Rabbit,Y Rabbit,Y Rabbit
+it_0book,  0,0 Book,0 Book,0 Book
+it_1book,  0,1 Book,1 Book,1 Book
+it_2book,  0,2 Book,2 Book,2 Book
+it_3book,  0,3 Book,3 Book,3 Book
+it_1sqrabbit,0,1 Square Rabbit,1 Square Rabbit,1 Square Rabbit
+it_2sqrabbit,0,2 Square Rabbit,2 Square Rabbit,2 Square Rabbit
+it_3sqrabbit,0,3 Square Rabbit,3 Square Rabbit,3 Square Rabbit
+it_atk_pat_sampler,0,Attack Pattern Sampler,Attack Pattern Sampler,Attack Pattern Sampler
+it_data_id_scanner,0,DataId Scanner,DataId Scanner,DataId Scanner,
