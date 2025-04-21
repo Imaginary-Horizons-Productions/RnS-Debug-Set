@@ -1,2 +1,2 @@
-# RnS-Mod-Template
-barebones template for  Rabbit and Steel mod
+# RnS-Debug-Set
+Set of loot that assists with debugging in Rabbit and Steel Modding API Development
