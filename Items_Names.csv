@@ -1,13 +1,13 @@
 key,level,English,Japanese,Chinese
 it_var_ex_loot,0,example staff,example staff,example staff
-it_xkrabbit, 0,X Thousand Rabbit,X Thousand Rabbit,X Thousand Rabbit
-it_xrabbit,  0,X Rabbit,X Rabbit,X Rabbit
-it_ykrabbit, 0,Y Thousand Rabbit,Y Thousand Rabbit,Y Thousand Rabbit
-it_yrabbit,  0,Y Rabbit,Y Rabbit,Y Rabbit
-it_0book,  0,0 Book,0 Book,0 Book
-it_1book,  0,1 Book,1 Book,1 Book
-it_2book,  0,2 Book,2 Book,2 Book
-it_3book,  0,3 Book,3 Book,3 Book
+it_xkrabbit,0,X Thousand Rabbit,X Thousand Rabbit,X Thousand Rabbit
+it_xrabbit,0,X Rabbit,X Rabbit,X Rabbit
+it_ykrabbit,0,Y Thousand Rabbit,Y Thousand Rabbit,Y Thousand Rabbit
+it_yrabbit,0,Y Rabbit,Y Rabbit,Y Rabbit
+it_0book,0,0 Book,0 Book,0 Book
+it_1book,0,1 Book,1 Book,1 Book
+it_2book,0,2 Book,2 Book,2 Book
+it_3book,0,3 Book,3 Book,3 Book
 it_1sqrabbit,0,1 Square Rabbit,1 Square Rabbit,1 Square Rabbit
 it_2sqrabbit,0,2 Square Rabbit,2 Square Rabbit,2 Square Rabbit
 it_3sqrabbit,0,3 Square Rabbit,3 Square Rabbit,3 Square Rabbit

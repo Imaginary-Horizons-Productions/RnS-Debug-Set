@@ -1,9 +1,9 @@
 key,level,English,Japanese,Chinese
 it_var_ex_loot,0,"sets hidden vars and square vars on pickup","sets hidden vars and square vars on pickup","sets hidden vars and square vars on pickup"
-it_xkrabbit,0,"displays 1000's of x coordinate"              ,"displays 1000's of x coordinate"              ,"displays 1000's of x coordinate"              ,
-it_xrabbit, 0,"displays x coordinate","displays x coordinate","displays x coordinate","displays x coordinate","displays x coordinate","displays x coordinate",
-it_ykrabbit,0,"displays 1000's of y coordinate"              ,"displays 1000's of y coordinate"              ,"displays 1000's of y coordinate"              ,
-it_yrabbit ,0,"displays y coordinate","displays y coordinate","displays y coordinate","displays y coordinate","displays y coordinate","displays y coordinate",
+it_xkrabbit,0,"displays 1000's of x coordinate","displays 1000's of x coordinate","displays 1000's of x coordinate",
+it_xrabbit,0,"displays x coordinate","displays x coordinate","displays x coordinate","displays x coordinate","displays x coordinate","displays x coordinate",
+it_ykrabbit,0,"displays 1000's of y coordinate","displays 1000's of y coordinate","displays 1000's of y coordinate",
+it_yrabbit,0,"displays y coordinate","displays y coordinate","displays y coordinate","displays y coordinate","displays y coordinate","displays y coordinate",
 it_0book,0,"shows hidden var 0 of first loot","shows hidden var 0 of first loot","shows hidden var 0 of first loot"
 it_1book,0,"shows hidden var 1 of first loot","shows hidden var 1 of first loot","shows hidden var 1 of first loot"
 it_2book,0,"shows hidden var 2 of first loot","shows hidden var 2 of first loot","shows hidden var 2 of first loot"
